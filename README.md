@@ -110,7 +110,7 @@ A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web res
 - [Link para o Vídeo de Apresentação (Pitch)](#)
 - [Link para a Documentação Técnica Completa (PDF)](#)
 - [Link para o Repositório de Código/Modelagem (GitHub)](#)
-- [Link para o Catálogo de Serviços ITIL](#)
+- [📚 Catálogo de Serviços de TI (ITIL/SLA)](CATALOGO_DE_SERVICOS_ITIL.md)
 
 ---
 
