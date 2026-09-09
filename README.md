@@ -2,8 +2,7 @@
 
 > Desenvolvimento de sistema de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.
 
-**Status:** Concluído  
-**Natureza:** Acadêmico / Laboratorial (Simulação Corporativa)
+**Natureza:** Acadêmico / Laboratorial / Simulação Corporativa ✔
 
 ---
 
@@ -111,6 +110,20 @@ A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web res
 - [Link para a Documentação Técnica Completa (PDF)](#)
 - [Link para o Repositório de Código/Modelagem (GitHub)](#)
 - [📚 Catálogo de Serviços de TI (ITIL/SLA)](CATALOGO_DE_SERVICOS_ITIL.md)
+
+. SERVICE DESK MAD BUILDER - DESCRIÇÃO TÉCNICA COMPLETA
+ LINK GITHUB  VIDEO APRESENTAÇÃO DO SISTEMA
+ 
+hƩps://github.com/BaƟstaGoat/Trabalho-Governan-a-TI---DefiniƟvo.git
+
+ Mad Builder: Plataforma Low Code para desenvolvimento de Sistemas Web
+ 
+ Site Home: hƩps://www.madbuilder.com.br/home
+ 
+Apresentação Mad Builder: hƩps://www.youtube.com/watch?v=0vQxkoLHeEQ 
+
+
+
 
 ---
 
