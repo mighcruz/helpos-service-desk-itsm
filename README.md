@@ -1,17 +1,12 @@
 # Help OS — Criação e Desenvolvimento de Plataforma para Service Desk 
 
 <p align="center">
-  <img src="docs/capa2.png" alt="Banner do projeto  width="1000">
+  <img src="docs/capa2.png" alt="Banner do projeto width="1000">
 </p>
 
 > Desenvolvimento de sistema de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.
 
 **Natureza:** Acadêmico / Laboratorial / Simulação Corporativa ✔
-
-
-
-
-
 
 ---
 
@@ -125,7 +120,6 @@ A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web res
 - [Link para Funcionalidades Tecnicas](docs/funcionalidadestecnicas.png)
 - [Link para o Vídeo de Apresentação (Pitch)](https://drive.google.com/file/d/1YI5i8aG8hYqAZ9ODPbYkuW7EJSWT_x0k/view?usp=sharing)
 - [Link para Apresentação do Sistema Mad Builder](https://www.youtube.com/watch?v=0vQxkoLHeEQ)
-
 
 ---
 
