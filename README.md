@@ -118,10 +118,10 @@ A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web res
 
 ## 📂 Documentação, Evidências e Recursos
 
-- [Link para a Documentação Técnica Completa (PDF)](helpos.pdf)
-- [Catálogo de Serviços de TI (ITIL/SLA)](CATALOGO_DE_SERVICOS_ITIL.md)
-- [Link para o Repositório de Código/Modelagem (GitHub)](guiadosistema.pdf)
-- [Link para o Repositório de Código/Modelagem (GitHub)](modelagem.pdf)
+- [Link para a Documentação Técnica Completa (PDF)](docs/helpos.pdf)
+- [Catálogo de Serviços de TI (ITIL/SLA)](docs/CATALOGO_DE_SERVICOS_ITIL.md)
+- [Link para o Repositório de Código/Modelagem (GitHub)](docs/guiadosistema.pdf)
+- [Link para o Repositório de Código/Modelagem (GitHub)](docs/modelagem.pdf)
 - [Link para Funcionalidades Tecnicas](docs/funcionalidadestecnicas.png)
 - [Link para o Vídeo de Apresentação (Pitch)](#)
 - [Link para Apresentação do Sistema Mad Builder](https://www.youtube.com/watch?v=0vQxkoLHeEQ)
