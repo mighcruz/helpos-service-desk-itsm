@@ -4,6 +4,11 @@
 
 **Natureza:** Acadêmico / Laboratorial / Simulação Corporativa ✔
 
+
+
+
+
+
 ---
 
 ## Visão Geral
@@ -42,13 +47,22 @@ O projeto foi conduzido em fases estruturadas de engenharia de software:
 5. **Entrega e Documentação:** Disponibilização de ambiente funcional, documentação técnica e vídeo de apresentação (pitch).
 
 ## Frameworks e Boas Práticas
+<p>
+  <img src="https://img.shields.io/badge/ITIL%20v4-005A9C?style=flat&logoColor=white" alt="ITIL v4">
+  <img src="https://img.shields.io/badge/COBIT%202019-003366?style=flat&logoColor=white" alt="COBIT 2019">
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2020000-4A154B?style=flat&logoColor=white" alt="ISO/IEC 20000">
+</p>
 
 - **ITIL 4:** Aplicado para estruturação do gerenciamento de incidentes, requisições de serviço, priorização de chamados e definição de SLAs.
 - **COBIT 2019:** Utilizado para alinhamento entre TI e negócio, governança de serviços e definição de métricas de desempenho.
 - **ISO 20000:** Referência para padronização de processos de gestão de serviços de TI e melhoria contínua.
 
 ## Tecnologias e Ferramentas
-
+<p>
+  <img src="https://img.shields.io/badge/Mad%20Builder-FF4F00?style=flat&logo=codeforces&logoColor=white" alt="Mad Builder">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+ </p>
+ 
 - **Desenvolvimento:** Mad Builder (plataforma low-code), HTML, CSS, JavaScript.
 - **Banco de Dados:** MySQL/PostgreSQL (modelagem relacional).
 - **Ferramentas de Modelagem:** Draw.io, BrModelo.
