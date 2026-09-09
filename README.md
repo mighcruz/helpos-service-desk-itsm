@@ -1,5 +1,9 @@
 # Help OS — Criação e Desenvolvimento de Plataforma para Service Desk 
 
+<p align="center">
+  <img src="docs/capa.png" alt="Banner do projeto  width="1000">
+</p>
+
 > Desenvolvimento de sistema de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.
 
 **Natureza:** Acadêmico / Laboratorial / Simulação Corporativa ✔
