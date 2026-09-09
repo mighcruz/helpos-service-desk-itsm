@@ -1,4 +1,4 @@
-# Help OS — Criação e Desenvolvimento de Plataforma para Service Desk 
+Help OS — Criação e Desenvolvimento de Plataforma para Service Desk 
 
 <p align="center">
   <img src="docs/capa2.png" alt="Banner do projeto width="1000">
