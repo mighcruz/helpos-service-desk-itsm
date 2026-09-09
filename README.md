@@ -6,12 +6,6 @@
 
 ---
 
-## 🔒 Nota de Confidencialidade
-
-*Tratando-se de um projeto desenvolvido em ambiente acadêmico e de simulação corporativa, dados de usuários, configurações de sistema e detalhes de implementação foram tratados de forma genérica, preservando a integridade de eventuais ambientes reais e informações sensíveis.*
-
----
-
 ## Visão Geral
 
 O HelpOS é uma plataforma de Service Desk desenvolvida para demonstrar a aplicação prática de frameworks de governança de TI (ITIL, COBIT e ISO 20000) em um sistema funcional de gestão de serviços. O projeto abrange todo o ciclo de vida de incidentes, desde a abertura pelo usuário até a resolução e fechamento pelo atendente, com workflows automatizados, categorização de chamados e métricas de SLA.
@@ -123,8 +117,6 @@ hƩps://github.com/BaƟstaGoat/Trabalho-Governan-a-TI---DefiniƟvo.git
 Apresentação Mad Builder: hƩps://www.youtube.com/watch?v=0vQxkoLHeEQ 
 
 
-
-
 ---
 
 ## Contato
@@ -139,3 +131,9 @@ Apresentação Mad Builder: hƩps://www.youtube.com/watch?v=0vQxkoLHeEQ
 [⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz) 
 
 [📂 Voltar ao Hub Central de Projetos](https://github.com/mighcruz/portfolio-ti)
+
+---
+
+###### 🔒 Nota de Confidencialidade
+
+###### *Tratando-se de um projeto desenvolvido em ambiente de simulação corporativa e laboratório de testes, quaisquer topologias de rede, endereços IP, credenciais de acesso ou configurações específicas mencionadas na documentação original foram omitidas ou sanitizadas neste repositório, preservando as boas práticas de segurança da informação.*
