@@ -4,13 +4,13 @@ Help OS — Criação e Desenvolvimento de Plataforma para Service Desk
   <img src="docs/capa2.png" alt="Banner do projeto width="1000">
 </p>
 
-> Desenvolvimento de sistema de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.
-
 **Natureza:** Acadêmico / Laboratorial / Simulação Corporativa ✔
 
 ---
 
 ## Visão Geral
+
+> Desenvolvimento de sistema de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.
 
 O HelpOS é uma plataforma de Service Desk desenvolvida para demonstrar a aplicação prática de frameworks de governança de TI (ITIL, COBIT e ISO 20000) em um sistema funcional de gestão de serviços. O projeto abrange todo o ciclo de vida de incidentes, desde a abertura pelo usuário até a resolução e fechamento pelo atendente, com workflows automatizados, categorização de chamados e métricas de SLA.
 
@@ -95,19 +95,6 @@ A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web res
 - Categorização e priorização de chamados baseadas em impacto e urgência.
 - Dashboards gerenciais com métricas de desempenho (tickets abertos/fechados, MTTR, satisfação).
 - Conformidade com requisitos de governança ITIL, COBIT e ISO 20000 documentada.
-
-## Aprendizados e Limitações
-
-- **Aprendizado:** A aplicação prática de ITIL em um sistema funcional demonstrou a importância de workflows bem definidos, categorização adequada e métricas de SLA para a eficiência do Service Desk. A plataforma low-code (Mad Builder) permitiu desenvolvimento ágil, mas exigiu adaptações para atender requisitos específicos de governança.
-- **Limitação:** O sistema foi desenvolvido em ambiente de simulação acadêmica, sem integração com ferramentas de monitoramento de infraestrutura (Zabbix, PRTG) ou sistemas corporativos (Active Directory, SAP). A escalabilidade para um ambiente de produção real exigiria adaptações de infraestrutura e segurança.
-
-## Próximos Passos e Evoluções Futuras
-
-- Integração com ferramentas de monitoramento de infraestrutura para abertura automática de chamados baseada em alertas.
-- Implementação de chatbot com IA para atendimento inicial e triagem automatizada.
-- Desenvolvimento de aplicativo mobile para acesso de usuários e atendentes.
-- Integração com Active Directory/LDAP para autenticação corporativa.
-- Expansão dos dashboards com análise preditiva e machine learning para antecipação de incidentes.
 
 ---
 
