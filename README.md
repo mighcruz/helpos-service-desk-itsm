@@ -46,6 +46,9 @@ O projeto foi conduzido em fases estruturadas de engenharia de software:
 4. **Testes de Performance e Segurança:** Validação de funcionalidades, testes de usabilidade e verificação de conformidade com requisitos de segurança.
 5. **Entrega e Documentação:** Disponibilização de ambiente funcional, documentação técnica e vídeo de apresentação (pitch).
 
+- 📂 Documentação: [Catálogo de Serviços de TI (ITIL/SLA)](docs/CATALOGO_DE_SERVICOS_ITIL.md)
+
+
 ## Frameworks e Boas Práticas
 <p>
   <img src="https://img.shields.io/badge/ITIL%20v4-005A9C?style=flat&logoColor=white" alt="ITIL v4">
@@ -95,24 +98,26 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
   </tr>
 </table>
 
-- [Engenharia de Modelagem Sistema HelpOS](docs/modelagem.pdf)
+- 📂 Documentação: [Engenharia de Modelagem Sistema HelpOS](docs/modelagem.pdf)
 
 <table align="center">
   <tr>
-       <td align="Center">
+   <td align="Center">
       <ul>
         Diagrama Classes
           </ul>
-      <img src="docs/diagramaclasses.png" alt="classes" width="300">
+      <img src="docs/diagramaclasses.png" alt="classes" width="500">
     </td>
     <td align="right">
       <ul>
         Modelo Fisico Banco de Dados
-          </ul>
-      <img src="modelofisicobancodedados.png" alt="bancodados" width="300">
+         </ul>
+      <img src="docs/bancodados.png" alt="bancodad" width="500">
     </td>
   </tr>
 </table>
+
+
 
 
 ## Evidências e Entregáveis
