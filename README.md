@@ -30,9 +30,9 @@ Para evoluir a maturidade em gestão de serviços, é necessário implementar um
 
 ## Escopo
 
-**Inclusões:** Desenvolvimento SDLC completo, automação de incidentes, gestão de portfólio de serviços, workflows de aprovação, categorização de chamados, sistema de priorização, anexos de arquivos, relatórios e dashboards.  
-**Exclusões:** Integração física com hardware externo de terceiros, desenvolvimento de aplicativos móveis nativos.  
-**Limites:** Cenário de simulação corporativa desenvolvido em ambiente acadêmico, sem impacto em operações de produção.
+- **Inclusões:** Desenvolvimento SDLC completo, automação de incidentes, gestão de portfólio de serviços, workflows de aprovação, categorização de chamados, sistema de priorização, anexos de arquivos, relatórios e dashboards.  
+- **Exclusões:** Integração física com hardware externo de terceiros, desenvolvimento de aplicativos móveis nativos.  
+- **Limites:** Cenário de simulação corporativa desenvolvido em ambiente acadêmico, sem impacto em operações de produção.
 
 ## Papel e Responsabilidades
 
@@ -43,9 +43,18 @@ Atuação no desenvolvimento da plataforma HelpOS, abrangendo modelagem de dados
 
 O projeto foi conduzido em fases estruturadas de engenharia de software:
 1. **Planejamento e Arquitetura:** Definição de requisitos funcionais e não-funcionais, modelagem de dados (DER, Diagrama de Classes) e arquitetura da plataforma.
+
+<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
+
 2. **Desenvolvimento de Workflows e SLA:** Implementação de fluxos de atendimento, regras de priorização (impacto x urgência), categorização de chamados e definição de SLAs.
+
+
 3. **Implementação do Sistema:** Desenvolvimento da interface de login, dashboard administrativo, formulários de abertura de chamados, listagem de tickets e sistema de resolução.
+
+
 4. **Testes de Performance e Segurança:** Validação de funcionalidades, testes de usabilidade e verificação de conformidade com requisitos de segurança.
+
+
 5. **Entrega e Documentação:** Disponibilização de ambiente funcional, documentação técnica e vídeo de apresentação (pitch).
 
 ## Frameworks e Boas Práticas
@@ -81,6 +90,9 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 - **Dashboards Gerenciais:** Visualização de métricas como tickets abertos/fechados, tempo médio de resolução (MTTR), top clientes, top produtos e distribuição por prioridade/categoria.
 - **Relatórios e Exportação:** Geração de relatórios em PDF, XLS, XML e CSV para análise de dados.
 
+<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
+
+<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
 
 ## Evidências e Entregáveis
 
@@ -92,7 +104,9 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 - **Documentação Técnica:** Arquitetura, fluxos de trabalho, regras de SLA e manual de uso.
 
 *[Espaço reservado para inserção de screenshots do sistema, diagramas de arquitetura e link para o vídeo de apresentação]*
+<p align="center"> <img src="docs/login.png" alt="Banner do projeto width="1000"> </p>
 
+<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
 
 ## Resultados e Validação
 
@@ -104,6 +118,10 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 
 Resultados
 Validação de um sistema de Service Desk funcional em ambiente de simulação, evidenciando a aplicação prática de workflows de atendimento integrados, categorização de chamados por impacto e urgência, e monitoramento de indicadores de desempenho por meio de dashboards gerenciais.
+
+<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
+
+<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
 
 ---
 
