@@ -1,14 +1,12 @@
-# 📚 Catálogo de Serviços de TI – HelpOS
+#  Catálogo de Serviços de TI – HelpOS
 
 > Documento oficial que descreve os serviços de Tecnologia da Informação disponíveis aos usuários da HelpOS, alinhado às boas práticas de ITIL 4 e ISO/IEC 20000.
-
-**Versão:** 1.0  
-**Última Atualização:** 2024  
+ 
 **Responsável pela Gestão do Catálogo:** Coordenação de Service Desk
 
 ---
 
-## ℹ️ Sobre este Catálogo
+##  Sobre este Catálogo
 
 Este catálogo tem como objetivo fornecer transparência, padronização e previsibilidade no atendimento às demandas de TI. Ele define claramente o que é oferecido, quem pode solicitar, quais informações são necessárias e quais são os Acordos de Nível de Serviço (SLA) comprometidos.
 
