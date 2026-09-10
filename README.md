@@ -10,37 +10,23 @@ Help OS — Criação e Desenvolvimento de Plataforma para Service Desk
 
 ## Visão Geral
 
-> Desenvolvimento de sistema de gestão de serviços de TI aplicando conceitos de ITIL, COBIT e engenharia de software, com foco em automação de incidentes e workflows de SLA.
+Em um cenário onde a tecnologia é essencial para as operações empresariais, o Service Desk  surge como um componente crítico, atuando como o principal ponto de contato entre usuários e serviços de TI.
 
-O HelpOS é uma plataforma de Service Desk desenvolvida para demonstrar a aplicação prática de frameworks de governança de TI (ITIL, COBIT e ISO 20000) em um sistema funcional de gestão de serviços. O projeto abrange todo o ciclo de vida de incidentes, desde a abertura pelo usuário até a resolução e fechamento pelo atendente, com workflows automatizados, categorização de chamados e métricas de SLA.
+O projeto descreve o Desenvolvimento de um sistema de gestão de serviços de TI (HelpOS) com aplicação prática de frameworks de governança de TI (ITIL, COBIT e ISO 20000) e Engenharia de Software, com foco em automação de incidentes e workflows de SLA.
 
-HelpOS é uma plataforma centralizada de Service Desk desenvolvida para gerenciar o ciclo de vida completo de incidentes e requisições de TI. O projeto soluciona a falta de padronização, rastreabilidade e métricas de desempenho comuns em atendimentos informais, aplicando práticas estruturadas de gestão de serviços.
+HelpOS é uma plataforma centralizada de Service Desk desenvolvida para gerenciar o ciclo de vida completo de incidentes e requisições de TI.
 
 ## Contexto e Problema
 
-Operações de suporte baseadas em canais informais, como e-mail, telefone e mensagens, geram inconsistência operacional, ausência de indicadores e dificuldade de rastreio. A implementação de uma plataforma centralizada automatiza fluxos e estabelece governança sobre as solicitações de TI.
-
-
-Organizações que operam sem um sistema estruturado de Service Desk enfrentam desafios como falta de padronização no atendimento, dificuldade de rastreamento de incidentes, ausência de métricas de desempenho e baixa visibilidade sobre a qualidade dos serviços de TI. Para evoluir a maturidade em gestão de serviços, é necessário implementar uma plataforma que centralize demandas, automatize processos e forneça indicadores para melhoria contínua.
+As Organizações que operam sem um sistema estruturado de Service Desk enfrentam desafios como falta de padronização no atendimento, dificuldade de rastreamento de incidentes, ausência de métricas de desempenho e baixa visibilidade sobre a qualidade dos serviços de TI. 
+Para evoluir a maturidade em gestão de serviços, é necessário implementar uma plataforma que centralize demandas, automatize processos e forneça indicadores para melhoria contínua. HelpOS
 
 ## Objetivos
-
-- Criar plataforma centralizada para gestão de incidentes e requisições de serviços de TI.
-- Automatizar suporte e workflows de TI com base em boas práticas de ITIL e COBIT.
-- Implementar categorização, priorização e rastreamento de chamados.
-- Garantir conformidade com frameworks ITIL, COBIT e ISO 20000.
-- Fornecer dashboards e relatórios para monitoramento de SLA e desempenho da equipe.
-
-Objetivos
 
 - Centralizar a gestão de incidentes e requisições de serviços de TI.
 - Automatizar workflows de atendimento baseados em ITIL e COBIT.
 - Implementar categorização, priorização e rastreamento de chamados.
 - Fornecer dashboards para monitoramento de SLA e desempenho da equipe.
-
-
-
-
 
 ## Escopo
 
@@ -48,21 +34,9 @@ Objetivos
 **Exclusões:** Integração física com hardware externo de terceiros, desenvolvimento de aplicativos móveis nativos.  
 **Limites:** Cenário de simulação corporativa desenvolvido em ambiente acadêmico, sem impacto em operações de produção.
 
-Escopo
-- Inclusões: Desenvolvimento completo do SDLC, automação de incidentes, gestão de portfólio de serviços, workflows de aprovação, categorização, priorização, anexos de arquivos, relatórios e dashboards.
-- Exclusões: Integração física com hardware externo de terceiros e desenvolvimento de aplicativos móveis nativos.
-- Limites: Simulação corporativa desenvolvida em ambiente acadêmico, sem impacto em operações de produção.
-
-
-
-
 ## Papel e Responsabilidades
 
-Atuação no desenvolvimento da plataforma HelpOS, incluindo modelagem de dados, implementação de workflows de atendimento, configuração de regras de SLA, desenvolvimento de dashboards gerenciais e documentação técnica do sistema.
-
-
-
-
+Atuação no desenvolvimento da plataforma HelpOS, abrangendo modelagem de dados, implementação de workflows de atendimento, parametrização de regras de SLA, desenvolvimento de dashboards gerenciais e elaboração da documentação técnica do sistema.
 
 
 ## Metodologia e Abordagem
@@ -83,10 +57,7 @@ O projeto foi conduzido em fases estruturadas de engenharia de software:
 
 - **ITIL 4:** Aplicado para estruturação do gerenciamento de incidentes, requisições de serviço, priorização de chamados e definição de SLAs.
 - **COBIT 2019:** Utilizado para alinhamento entre TI e negócio, governança de serviços e definição de métricas de desempenho.
-- **ISO 20000:** Referência para padronização de processos de gestão de serviços de TI e melhoria contínua.
-
-
-
+- **ISO 20000:** Diretriz para padronização de processos de gestão de serviços e melhoria contínua.
 
 
 ## Tecnologias e Ferramentas
@@ -95,23 +66,21 @@ O projeto foi conduzido em fases estruturadas de engenharia de software:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
  </p>
  
-- **Desenvolvimento:** Mad Builder (plataforma low-code), HTML, CSS, JavaScript.
+- **Desenvolvimento:** Mad Builder (low-code), HTML, CSS, JavaScript.
 - **Banco de Dados:** MySQL/PostgreSQL (modelagem relacional).
 - **Ferramentas de Modelagem:** Draw.io, BrModelo.
 - **Gestão e Versionamento:** GitHub.
-- **Infraestrutura Conceitual:** Terraform, Ansible, Kubernetes, Docker, AWS/Azure (arquitetura documentada).
-
-
-
+- **Infraestrutura Conceitual:** Terraform, Ansible, Kubernetes, Docker, AWS/Azure.
 
 ## Solução e Arquitetura
 
-A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web responsiva. O sistema inclui:
+A plataforma foi desenvolvida com arquitetura modular e interface web responsiva. O sistema inclui:
 - **Módulo de Autenticação:** Login seguro com controle de perfis (Administrador, Atendente, Cliente/Usuário).
 - **Módulo de Chamados:** Abertura, categorização, priorização, atribuição e resolução de incidentes.
 - **Workflows Automatizados:** Fluxos de aprovação, notificações e escalonamento baseados em regras de SLA.
 - **Dashboards Gerenciais:** Visualização de métricas como tickets abertos/fechados, tempo médio de resolução (MTTR), top clientes, top produtos e distribuição por prioridade/categoria.
 - **Relatórios e Exportação:** Geração de relatórios em PDF, XLS, XML e CSV para análise de dados.
+
 
 ## Evidências e Entregáveis
 
@@ -124,6 +93,7 @@ A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web res
 
 *[Espaço reservado para inserção de screenshots do sistema, diagramas de arquitetura e link para o vídeo de apresentação]*
 
+
 ## Resultados e Validação
 
 - Sistema de Service Desk funcional desenvolvido e testado em ambiente de simulação.
@@ -131,6 +101,9 @@ A plataforma HelpOS foi desenvolvida com arquitetura modular e interface web res
 - Categorização e priorização de chamados baseadas em impacto e urgência.
 - Dashboards gerenciais com métricas de desempenho (tickets abertos/fechados, MTTR, satisfação).
 - Conformidade com requisitos de governança ITIL, COBIT e ISO 20000 documentada.
+
+Resultados
+Validação de um sistema de Service Desk funcional em ambiente de simulação, evidenciando a aplicação prática de workflows de atendimento integrados, categorização de chamados por impacto e urgência, e monitoramento de indicadores de desempenho por meio de dashboards gerenciais.
 
 ---
 
