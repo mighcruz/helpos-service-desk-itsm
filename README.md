@@ -1,8 +1,8 @@
-Help OS — Criação e Desenvolvimento de Plataforma para Service Desk 
-
 <p align="center">
   <img src="docs/capa2.png" alt="Banner do projeto width="1000">
 </p>
+
+HelpOS é uma plataforma centralizada de Service Desk desenvolvida por alunos para gerenciar o ciclo de vida completo de incidentes e requisições de TI.
 
 **Natureza:** Acadêmico / Laboratorial / Simulação Corporativa ✔
 
@@ -14,7 +14,6 @@ Em um cenário onde a tecnologia é essencial para as operações empresariais, 
 
 O projeto descreve o Desenvolvimento de um sistema de gestão de serviços de TI (HelpOS) com aplicação prática de frameworks de governança de TI (ITIL, COBIT e ISO 20000) e Engenharia de Software, com foco em automação de incidentes e workflows de SLA.
 
-HelpOS é uma plataforma centralizada de Service Desk desenvolvida para gerenciar o ciclo de vida completo de incidentes e requisições de TI.
 
 ## Contexto e Problema
 
@@ -36,25 +35,16 @@ Para evoluir a maturidade em gestão de serviços, é necessário implementar um
 
 ## Papel e Responsabilidades
 
-Atuação no desenvolvimento da plataforma HelpOS, abrangendo modelagem de dados, implementação de workflows de atendimento, parametrização de regras de SLA, desenvolvimento de dashboards gerenciais e elaboração da documentação técnica do sistema.
+Atuei como Coordenador no desenvolvimento da plataforma HelpOS, abrangendo modelagem de dados, implementação de workflows de atendimento, parametrização de regras de SLA, desenvolvimento de dashboards gerenciais e elaboração da documentação técnica do sistema.
 
 
-## Metodologia e Abordagem
+## Metodologia de Desenvolvimento
 
 O projeto foi conduzido em fases estruturadas de engenharia de software:
 1. **Planejamento e Arquitetura:** Definição de requisitos funcionais e não-funcionais, modelagem de dados (DER, Diagrama de Classes) e arquitetura da plataforma.
-
-<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
-
 2. **Desenvolvimento de Workflows e SLA:** Implementação de fluxos de atendimento, regras de priorização (impacto x urgência), categorização de chamados e definição de SLAs.
-
-
 3. **Implementação do Sistema:** Desenvolvimento da interface de login, dashboard administrativo, formulários de abertura de chamados, listagem de tickets e sistema de resolução.
-
-
 4. **Testes de Performance e Segurança:** Validação de funcionalidades, testes de usabilidade e verificação de conformidade com requisitos de segurança.
-
-
 5. **Entrega e Documentação:** Disponibilização de ambiente funcional, documentação técnica e vídeo de apresentação (pitch).
 
 ## Frameworks e Boas Práticas
@@ -90,10 +80,6 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 - **Dashboards Gerenciais:** Visualização de métricas como tickets abertos/fechados, tempo médio de resolução (MTTR), top clientes, top produtos e distribuição por prioridade/categoria.
 - **Relatórios e Exportação:** Geração de relatórios em PDF, XLS, XML e CSV para análise de dados.
 
-<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
-
-<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
-
 ## Evidências e Entregáveis
 
 - **Sistema Funcional HelpOS:** Plataforma completa com login, dashboard, abertura de chamados, listagem de tickets e resolução de incidentes.
@@ -104,9 +90,18 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 - **Documentação Técnica:** Arquitetura, fluxos de trabalho, regras de SLA e manual de uso.
 
 *[Espaço reservado para inserção de screenshots do sistema, diagramas de arquitetura e link para o vídeo de apresentação]*
-<p align="center"> <img src="docs/login.png" alt="Banner do projeto width="1000"> </p>
 
-<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
+<table align="center">
+  <tr>
+    <td align="left">
+      <img src="docs/login.png" alt="Tela de Login" width="400">
+    </td>
+    <td align="right">
+      <img src="docs/grupoacesso.png" alt="Modelo de Requisitos" width="700">
+    </td>
+  </tr>
+</table>
+
 
 ## Resultados e Validação
 
@@ -119,20 +114,27 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 Resultados
 Validação de um sistema de Service Desk funcional em ambiente de simulação, evidenciando a aplicação prática de workflows de atendimento integrados, categorização de chamados por impacto e urgência, e monitoramento de indicadores de desempenho por meio de dashboards gerenciais.
 
-<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
-
-<p align="center"> <img src="docs/modelrf.png" alt="Banner do projeto width="1000"> </p>
+<table align="center">
+  <tr>
+    <td align="left">
+      <img src="docs/dashadmin.png" alt="dah" width="600">
+    </td>
+    <td align="right">
+      <img src="docs/dashetickets3.png" alt="dash" width="700">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Documentação, Evidências e Recursos
 
 - [Catálogo de Serviços de TI (ITIL/SLA)](docs/CATALOGO_DE_SERVICOS_ITIL.md)
-- [Guia do Sistema/Manual de Instruções](docs/guiadosistema.pdf)
+- [Guia do Sistema / Manual de Instruções do Usuário](docs/guiadosistema.pdf)
 - [Modelagem Software UML- HelpOS](docs/modelagem.pdf)
 - [Funcionalidades Tecnicas do Sistema HelpOS](docs/funcionalidadestecnicas.png)
-- [Link para a Documentação Técnica Completa (PDF)](docs/helpos.pdf)
-- [Vídeo de Apresentação (Pitch)](https://drive.google.com/file/d/1YI5i8aG8hYqAZ9ODPbYkuW7EJSWT_x0k/view?usp=sharing)
+- [Documentação Técnica Completa (PDF)](docs/helpos.pdf)
+- [Vídeo de Apresentação HelpOS (Pitch)](https://drive.google.com/file/d/1YI5i8aG8hYqAZ9ODPbYkuW7EJSWT_x0k/view?usp=sharing)
 - [Link para Apresentação do Sistema Mad Builder](https://www.youtube.com/watch?v=0vQxkoLHeEQ)
 
 ---
