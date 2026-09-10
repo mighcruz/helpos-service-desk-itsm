@@ -103,13 +103,13 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
       <ul>
         Diagrama Classes
           </ul>
-      <img src="docs/diagramaclasses.png" alt="classes" width="600">
+      <img src="docs/diagramaclasses.png" alt="classes" width="300">
     </td>
-    <td align="center">
+    <td align="right">
       <ul>
         Modelo Fisico Banco de Dados
           </ul>
-      <img src="modelofisicobancodedados.png" alt="bancodados" width="500">
+      <img src="modelofisicobancodedados.png" alt="bancodados" width="300">
     </td>
   </tr>
 </table>
