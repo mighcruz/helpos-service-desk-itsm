@@ -37,7 +37,6 @@ Para evoluir a maturidade em gestão de serviços, é necessário implementar um
 
 Atuei como Coordenador no desenvolvimento da plataforma HelpOS, abrangendo modelagem de dados, implementação de workflows de atendimento, parametrização de regras de SLA, desenvolvimento de dashboards gerenciais e elaboração da documentação técnica do sistema.
 
-
 ## Metodologia de Desenvolvimento
 
 O projeto foi conduzido em fases estruturadas de engenharia de software:
@@ -57,7 +56,6 @@ O projeto foi conduzido em fases estruturadas de engenharia de software:
 - **ITIL 4:** Aplicado para estruturação do gerenciamento de incidentes, requisições de serviço, priorização de chamados e definição de SLAs.
 - **COBIT 2019:** Utilizado para alinhamento entre TI e negócio, governança de serviços e definição de métricas de desempenho.
 - **ISO 20000:** Diretriz para padronização de processos de gestão de serviços e melhoria contínua.
-
 
 ## Tecnologias e Ferramentas
 <p>
@@ -80,6 +78,24 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 - **Dashboards Gerenciais:** Visualização de métricas como tickets abertos/fechados, tempo médio de resolução (MTTR), top clientes, top produtos e distribuição por prioridade/categoria.
 - **Relatórios e Exportação:** Geração de relatórios em PDF, XLS, XML e CSV para análise de dados.
 
+<table align="center">
+  <tr>
+       <td align="Center">
+      <ul>
+        DIAGRAMA CASOS DE USO
+          </ul>
+      <img src="docs/casouso.png" alt="Tela de Login" width="600">
+    </td>
+    <td align="center">
+      <ul>
+        DIAGRAMA D.E.R
+          </ul>
+      <img src="docs/diagramader.png" alt="Modelo de Requisitos" width="500">
+    </td>
+  </tr>
+</table>
+
+
 ## Evidências e Entregáveis
 
 - **Sistema Funcional HelpOS:** Plataforma completa com login, dashboard, abertura de chamados, listagem de tickets e resolução de incidentes.
@@ -89,7 +105,6 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 - **Vídeo de Apresentação (Pitch):** Demonstração completa das funcionalidades do sistema.
 - **Documentação Técnica:** Arquitetura, fluxos de trabalho, regras de SLA e manual de uso.
 
-*[Espaço reservado para inserção de screenshots do sistema, diagramas de arquitetura e link para o vídeo de apresentação]*
 
 <table align="center">
   <tr>
@@ -111,8 +126,6 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
 - Dashboards gerenciais com métricas de desempenho (tickets abertos/fechados, MTTR, satisfação).
 - Conformidade com requisitos de governança ITIL, COBIT e ISO 20000 documentada.
 
-Resultados
-Validação de um sistema de Service Desk funcional em ambiente de simulação, evidenciando a aplicação prática de workflows de atendimento integrados, categorização de chamados por impacto e urgência, e monitoramento de indicadores de desempenho por meio de dashboards gerenciais.
 
 <table align="center">
   <tr>
@@ -131,7 +144,7 @@ Validação de um sistema de Service Desk funcional em ambiente de simulação, 
 
 - [Catálogo de Serviços de TI (ITIL/SLA)](docs/CATALOGO_DE_SERVICOS_ITIL.md)
 - [Guia do Sistema / Manual de Instruções do Usuário](docs/guiadosistema.pdf)
-- [Modelagem Software UML- HelpOS](docs/modelagem.pdf)
+- [Engenharia de Modelagem Sistema HelpOS](docs/modelagem.pdf)
 - [Funcionalidades Tecnicas do Sistema HelpOS](docs/funcionalidadestecnicas.png)
 - [Documentação Técnica Completa (PDF)](docs/helpos.pdf)
 - [Vídeo de Apresentação HelpOS (Pitch)](https://drive.google.com/file/d/1YI5i8aG8hYqAZ9ODPbYkuW7EJSWT_x0k/view?usp=sharing)
