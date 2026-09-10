@@ -82,15 +82,34 @@ A plataforma foi desenvolvida com arquitetura modular e interface web responsiva
   <tr>
        <td align="Center">
       <ul>
-        DIAGRAMA CASOS DE USO
+        Diagrama Caso de Uso
           </ul>
-      <img src="docs/casouso.png" alt="Tela de Login" width="600">
+      <img src="docs/casouso.png" alt="casodeuso" width="600">
     </td>
     <td align="center">
       <ul>
-        DIAGRAMA D.E.R
+        Diagrama D.E.R
           </ul>
       <img src="docs/diagramader.png" alt="Modelo de Requisitos" width="500">
+    </td>
+  </tr>
+</table>
+
+- [Engenharia de Modelagem Sistema HelpOS](docs/modelagem.pdf)
+
+<table align="center">
+  <tr>
+       <td align="Center">
+      <ul>
+        Diagrama Classes
+          </ul>
+      <img src="docs/diagramaclasses.png" alt="classes" width="600">
+    </td>
+    <td align="center">
+      <ul>
+        Modelo Fisico Banco de Dados
+          </ul>
+      <img src="modelofisicobancodedados.png" alt="bancodados" width="500">
     </td>
   </tr>
 </table>
