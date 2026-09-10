@@ -14,7 +14,12 @@ Help OS — Criação e Desenvolvimento de Plataforma para Service Desk
 
 O HelpOS é uma plataforma de Service Desk desenvolvida para demonstrar a aplicação prática de frameworks de governança de TI (ITIL, COBIT e ISO 20000) em um sistema funcional de gestão de serviços. O projeto abrange todo o ciclo de vida de incidentes, desde a abertura pelo usuário até a resolução e fechamento pelo atendente, com workflows automatizados, categorização de chamados e métricas de SLA.
 
+HelpOS é uma plataforma centralizada de Service Desk desenvolvida para gerenciar o ciclo de vida completo de incidentes e requisições de TI. O projeto soluciona a falta de padronização, rastreabilidade e métricas de desempenho comuns em atendimentos informais, aplicando práticas estruturadas de gestão de serviços.
+
 ## Contexto e Problema
+
+Operações de suporte baseadas em canais informais, como e-mail, telefone e mensagens, geram inconsistência operacional, ausência de indicadores e dificuldade de rastreio. A implementação de uma plataforma centralizada automatiza fluxos e estabelece governança sobre as solicitações de TI.
+
 
 Organizações que operam sem um sistema estruturado de Service Desk enfrentam desafios como falta de padronização no atendimento, dificuldade de rastreamento de incidentes, ausência de métricas de desempenho e baixa visibilidade sobre a qualidade dos serviços de TI. Para evoluir a maturidade em gestão de serviços, é necessário implementar uma plataforma que centralize demandas, automatize processos e forneça indicadores para melhoria contínua.
 
@@ -26,15 +31,39 @@ Organizações que operam sem um sistema estruturado de Service Desk enfrentam d
 - Garantir conformidade com frameworks ITIL, COBIT e ISO 20000.
 - Fornecer dashboards e relatórios para monitoramento de SLA e desempenho da equipe.
 
+Objetivos
+
+- Centralizar a gestão de incidentes e requisições de serviços de TI.
+- Automatizar workflows de atendimento baseados em ITIL e COBIT.
+- Implementar categorização, priorização e rastreamento de chamados.
+- Fornecer dashboards para monitoramento de SLA e desempenho da equipe.
+
+
+
+
+
 ## Escopo
 
 **Inclusões:** Desenvolvimento SDLC completo, automação de incidentes, gestão de portfólio de serviços, workflows de aprovação, categorização de chamados, sistema de priorização, anexos de arquivos, relatórios e dashboards.  
 **Exclusões:** Integração física com hardware externo de terceiros, desenvolvimento de aplicativos móveis nativos.  
 **Limites:** Cenário de simulação corporativa desenvolvido em ambiente acadêmico, sem impacto em operações de produção.
 
+Escopo
+- Inclusões: Desenvolvimento completo do SDLC, automação de incidentes, gestão de portfólio de serviços, workflows de aprovação, categorização, priorização, anexos de arquivos, relatórios e dashboards.
+- Exclusões: Integração física com hardware externo de terceiros e desenvolvimento de aplicativos móveis nativos.
+- Limites: Simulação corporativa desenvolvida em ambiente acadêmico, sem impacto em operações de produção.
+
+
+
+
 ## Papel e Responsabilidades
 
 Atuação no desenvolvimento da plataforma HelpOS, incluindo modelagem de dados, implementação de workflows de atendimento, configuração de regras de SLA, desenvolvimento de dashboards gerenciais e documentação técnica do sistema.
+
+
+
+
+
 
 ## Metodologia e Abordagem
 
@@ -56,6 +85,10 @@ O projeto foi conduzido em fases estruturadas de engenharia de software:
 - **COBIT 2019:** Utilizado para alinhamento entre TI e negócio, governança de serviços e definição de métricas de desempenho.
 - **ISO 20000:** Referência para padronização de processos de gestão de serviços de TI e melhoria contínua.
 
+
+
+
+
 ## Tecnologias e Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Mad%20Builder-FF4F00?style=flat&logo=codeforces&logoColor=white" alt="Mad Builder">
@@ -67,6 +100,9 @@ O projeto foi conduzido em fases estruturadas de engenharia de software:
 - **Ferramentas de Modelagem:** Draw.io, BrModelo.
 - **Gestão e Versionamento:** GitHub.
 - **Infraestrutura Conceitual:** Terraform, Ansible, Kubernetes, Docker, AWS/Azure (arquitetura documentada).
+
+
+
 
 ## Solução e Arquitetura
 
